@@ -12,8 +12,6 @@ export default {
 <template>
   <div id="app">
     <Header />
-    <sidebar />
+    <sidebar /> 
   </div>
 </template>
-
-<style scoped></style>
